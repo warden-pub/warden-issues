@@ -4,7 +4,7 @@ This repository is intended to be the public center for issue tracking and manag
 
 ### Submitting Issues
 
-Anybody is free to create issues.  Please take now of the following things when creating issues: 
+Anybody is free to create issues.  Please take note of the following things when creating issues: 
 
 * OS Platform (Darwin, Linux, Windows)
 * Os Arch (386, amd64, arm32, arm64)
